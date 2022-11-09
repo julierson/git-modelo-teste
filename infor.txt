@@ -1,9 +1,7 @@
-	
-	
-	
 	public teste {
 		Ola mundo
 	}
-
-
+	
 	novamente
+	
+	teste 001
